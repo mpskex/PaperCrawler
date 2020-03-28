@@ -1,0 +1,5 @@
+#   Ignore some files that are not useful
+__pycache__/
+*.db
+*.html
+*.pyc
